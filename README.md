@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **earning a computer science degree**
 
-- 💬 Ask me about **Ruby on Rails**
+- 💬 Ask me about **AWS**, **Ruby on Rails**, or **TypeScript**
 
 - 📫 Email: **contact@alexclutter.dev**
 
