@@ -1,9 +1,9 @@
 <h1 align="left">Hi 👋, I'm Alex Clutter</h1>
 <h3 align="left">A software developer at Tatango</h3>
 
-- 🔭 I’m currently working on **earning a computer science degree**
+- 🎓 I have a bachelor's degree in **computer science**
 
-- 💬 Ask me about **AWS**, **Ruby on Rails**, or **TypeScript**
+- 💬 Ask me about **AWS**, **Ruby**, or **TypeScript**
 
 - 📫 Email: **contact@alexclutter.dev**
 
