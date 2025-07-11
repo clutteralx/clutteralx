@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Alex Clutter</h1>
-<h3 align="left">A software developer at Tatango</h3>
+<h3 align="left">A senior software engineer at Tatango</h3>
 
 - 🎓 I have a bachelor's degree in **computer science**
 
